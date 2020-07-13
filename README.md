@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+I'm a web developer turned iOS developer living in Mumbai, India.
+
+Currently I'm learning [#100DaysOfSwiftUI](https://twitter.com/hashtag/100DaysOfSwiftUI). You can track my progress [here](https://github.com/prtmshk/100DaysOfSwiftUI).
+
+I sometimes write stuff on my [website](https://prathamesh.xyz). You can find me on [twitter](https://twitter.com/prtmshk).
+
+I'm looking for a full time job. Open to both remote as well as on-site (post-COVID, obviously.) and willing to relocate. You can find my resume [here](https://prathamesh.xyz/resume)
 
 <!--
 **prtmshk/prtmshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
